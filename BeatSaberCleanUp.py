@@ -23,7 +23,7 @@ import re
 import os
 
 #set your target directory
-rootdir = '/home/jonr/Desktop/Projects/BeatSaber'
+rootdir = '/home/user/Desktop/Projects/BeatSaber'
 
 #Regex for the Song Name. only used in console.
 names = re.compile( r'"_songName":.*')
